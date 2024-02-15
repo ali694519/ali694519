@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ali, a Software Engineer specializing in backend development with PHP and Laravel.</p>
+<p align="left">My name is Ali Mohammed, a Software Engineer specializing in backend development with PHP and Laravel.</p>
 
 ###
 
